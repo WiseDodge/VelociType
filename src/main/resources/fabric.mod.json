@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "velocitype",
+  "version": "${version}",
+  "name": "VelociType",
+  "description": "A client-side mod that displays your real-time typing speed (WPM) and other stats directly in the chat screen.",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/velocitype/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "dev.wisedodge.velocitype.client.VelocitypeDataGenerator"
+    ],
+    "client": [
+      "dev.wisedodge.velocitype.client.VelocitypeClient"
+    ],
+    "main": [
+      "dev.wisedodge.velocitype.Velocitype"
+    ]
+  },
+  "mixins": [
+    "velocitype.mixins.json",
+    {
+      "config": "velocitype.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
