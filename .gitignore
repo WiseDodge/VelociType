@@ -17,7 +17,6 @@ runs/
 
 # User-specific stuff
 .idea/
-
 *.iml
 *.ipr
 *.iws
@@ -35,6 +34,8 @@ atlassian-ide-plugin.xml
 
 # Log file
 *.log
+hs_err_*.log
+replay_*.log
 
 # BlueJ files
 *.ctxt
@@ -50,6 +51,8 @@ atlassian-ide-plugin.xml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.hprof
+*.jfr
 
 *~
 
@@ -118,11 +121,19 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Gradle
 .gradle/
 build/
-
-# Ignore Gradle GUI config
+classes/
 gradle-app.setting
-
-# Cache of project
 .gradletasknamecache
+
+# Eclipse
+*.launch
+.classpath
+.project
+
+# VSCode
+.settings/
+.vscode/
+bin/
