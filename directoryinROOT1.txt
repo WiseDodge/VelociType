@@ -1,0 +1,782 @@
+Folder PATH listing for volume Data
+Volume serial number is EE6D-C74F
+D:.
+¦   .gitattributes
+¦   .gitignore
+¦   build.gradle
+¦   directoryinROOT.txt
+¦   gradle.properties
+¦   gradlew
+¦   gradlew.bat
+¦   LICENSE
+¦   LICENSE.txt
+¦   README.md
+¦   settings.gradle
+¦   
++---.github
+¦   +---workflows
+¦           build.yml
+¦           discord-notify.yml
+¦           
++---.gradle
+¦   ¦   file-system.probe
+¦   ¦   workspace-id.txt
+¦   ¦   workspace-id.txt.lock
+¦   ¦   
+¦   +---8.14.2
+¦   ¦   ¦   gc.properties
+¦   ¦   ¦   
+¦   ¦   +---checksums
+¦   ¦   ¦       checksums.lock
+¦   ¦   ¦       md5-checksums.bin
+¦   ¦   ¦       sha1-checksums.bin
+¦   ¦   ¦       
+¦   ¦   +---executionHistory
+¦   ¦   ¦       executionHistory.bin
+¦   ¦   ¦       executionHistory.lock
+¦   ¦   ¦       
+¦   ¦   +---expanded
+¦   ¦   +---fileChanges
+¦   ¦   ¦       last-build.bin
+¦   ¦   ¦       
+¦   ¦   +---fileHashes
+¦   ¦   ¦       fileHashes.bin
+¦   ¦   ¦       fileHashes.lock
+¦   ¦   ¦       resourceHashesCache.bin
+¦   ¦   ¦       
+¦   ¦   +---vcsMetadata
+¦   +---buildOutputCleanup
+¦   ¦       buildOutputCleanup.lock
+¦   ¦       cache.properties
+¦   ¦       outputFiles.bin
+¦   ¦       
+¦   +---loom-cache
+¦   ¦   ¦   launch.cfg
+¦   ¦   ¦   log4j.xml
+¦   ¦   ¦   remapClasspath.txt
+¦   ¦   ¦   
+¦   ¦   +---minecraftMaven
+¦   ¦   ¦   +---net
+¦   ¦   ¦       +---minecraft
+¦   ¦   ¦           +---minecraft-clientOnly-077c1ca8a6
+¦   ¦   ¦           ¦   +---1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2
+¦   ¦   ¦           ¦           minecraft-clientOnly-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar
+¦   ¦   ¦           ¦           minecraft-clientOnly-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.pom
+¦   ¦   ¦           ¦           
+¦   ¦   ¦           +---minecraft-common-077c1ca8a6
+¦   ¦   ¦               +---1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2
+¦   ¦   ¦                       minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar
+¦   ¦   ¦                       minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar.backup
+¦   ¦   ¦                       minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.pom
+¦   ¦   ¦                       
+¦   ¦   +---natives
+¦   ¦   ¦   +---1.21.8
+¦   ¦   +---remapped_mods
+¦   ¦   ¦   +---remapped
+¦   ¦   ¦       +---net
+¦   ¦   ¦           +---fabricmc
+¦   ¦   ¦               +---fabric-api
+¦   ¦   ¦                   +---fabric-api-a5b452c0-common
+¦   ¦   ¦                   ¦   +---0.129.0+1.21.8
+¦   ¦   ¦                   ¦           fabric-api-a5b452c0-common-0.129.0+1.21.8-sources.jar
+¦   ¦   ¦                   ¦           fabric-api-a5b452c0-common-0.129.0+1.21.8.jar
+¦   ¦   ¦                   ¦           fabric-api-a5b452c0-common-0.129.0+1.21.8.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-api-base-a5b452c0-common
+¦   ¦   ¦                   ¦   +---0.4.64+9ec45cd8f3
+¦   ¦   ¦                   ¦           fabric-api-base-a5b452c0-common-0.4.64+9ec45cd8f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-api-base-a5b452c0-common-0.4.64+9ec45cd8f3.jar
+¦   ¦   ¦                   ¦           fabric-api-base-a5b452c0-common-0.4.64+9ec45cd8f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-api-lookup-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---1.6.100+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-api-lookup-api-v1-a5b452c0-common-1.6.100+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-api-lookup-api-v1-a5b452c0-common-1.6.100+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-api-lookup-api-v1-a5b452c0-common-1.6.100+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-biome-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---16.0.11+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-biome-api-v1-a5b452c0-common-16.0.11+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-biome-api-v1-a5b452c0-common-16.0.11+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-biome-api-v1-a5b452c0-common-16.0.11+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-block-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---1.1.3+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-block-api-v1-a5b452c0-common-1.1.3+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-block-api-v1-a5b452c0-common-1.1.3+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-block-api-v1-a5b452c0-common-1.1.3+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-block-view-api-v2-a5b452c0-client
+¦   ¦   ¦                   ¦   +---1.0.31+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-block-view-api-v2-a5b452c0-client-1.0.31+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-block-view-api-v2-a5b452c0-client-1.0.31+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-block-view-api-v2-a5b452c0-client-1.0.31+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-block-view-api-v2-a5b452c0-common
+¦   ¦   ¦                   ¦   +---1.0.31+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-block-view-api-v2-a5b452c0-common-1.0.31+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-block-view-api-v2-a5b452c0-common-1.0.31+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-block-view-api-v2-a5b452c0-common-1.0.31+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-client-gametest-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---4.2.5+8a98c3fcf3
+¦   ¦   ¦                   ¦           fabric-client-gametest-api-v1-a5b452c0-client-4.2.5+8a98c3fcf3-sources.jar
+¦   ¦   ¦                   ¦           fabric-client-gametest-api-v1-a5b452c0-client-4.2.5+8a98c3fcf3.jar
+¦   ¦   ¦                   ¦           fabric-client-gametest-api-v1-a5b452c0-client-4.2.5+8a98c3fcf3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-command-api-v2-a5b452c0-client
+¦   ¦   ¦                   ¦   +---2.2.53+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-command-api-v2-a5b452c0-client-2.2.53+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-command-api-v2-a5b452c0-client-2.2.53+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-command-api-v2-a5b452c0-client-2.2.53+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-command-api-v2-a5b452c0-common
+¦   ¦   ¦                   ¦   +---2.2.53+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-command-api-v2-a5b452c0-common-2.2.53+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-command-api-v2-a5b452c0-common-2.2.53+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-command-api-v2-a5b452c0-common-2.2.53+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-content-registries-v0-a5b452c0-common
+¦   ¦   ¦                   ¦   +---10.0.18+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-content-registries-v0-a5b452c0-common-10.0.18+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-content-registries-v0-a5b452c0-common-10.0.18+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-content-registries-v0-a5b452c0-common-10.0.18+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-convention-tags-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---2.1.40+7f945d5bf3
+¦   ¦   ¦                   ¦           fabric-convention-tags-v1-a5b452c0-common-2.1.40+7f945d5bf3-sources.jar
+¦   ¦   ¦                   ¦           fabric-convention-tags-v1-a5b452c0-common-2.1.40+7f945d5bf3.jar
+¦   ¦   ¦                   ¦           fabric-convention-tags-v1-a5b452c0-common-2.1.40+7f945d5bf3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-convention-tags-v2-a5b452c0-common
+¦   ¦   ¦                   ¦   +---2.15.5+eb5df52ff3
+¦   ¦   ¦                   ¦           fabric-convention-tags-v2-a5b452c0-common-2.15.5+eb5df52ff3-sources.jar
+¦   ¦   ¦                   ¦           fabric-convention-tags-v2-a5b452c0-common-2.15.5+eb5df52ff3.jar
+¦   ¦   ¦                   ¦           fabric-convention-tags-v2-a5b452c0-common-2.15.5+eb5df52ff3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-crash-report-info-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---0.3.15+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-crash-report-info-v1-a5b452c0-common-0.3.15+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-crash-report-info-v1-a5b452c0-common-0.3.15+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-crash-report-info-v1-a5b452c0-common-0.3.15+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-data-attachment-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---1.8.10+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-data-attachment-api-v1-a5b452c0-client-1.8.10+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-data-attachment-api-v1-a5b452c0-client-1.8.10+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-data-attachment-api-v1-a5b452c0-client-1.8.10+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-data-attachment-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---1.8.10+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-data-attachment-api-v1-a5b452c0-common-1.8.10+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-data-attachment-api-v1-a5b452c0-common-1.8.10+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-data-attachment-api-v1-a5b452c0-common-1.8.10+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-data-generation-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---23.2.4+55e55d29f3
+¦   ¦   ¦                   ¦           fabric-data-generation-api-v1-a5b452c0-client-23.2.4+55e55d29f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-data-generation-api-v1-a5b452c0-client-23.2.4+55e55d29f3.jar
+¦   ¦   ¦                   ¦           fabric-data-generation-api-v1-a5b452c0-client-23.2.4+55e55d29f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-data-generation-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---23.2.4+55e55d29f3
+¦   ¦   ¦                   ¦           fabric-data-generation-api-v1-a5b452c0-common-23.2.4+55e55d29f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-data-generation-api-v1-a5b452c0-common-23.2.4+55e55d29f3.jar
+¦   ¦   ¦                   ¦           fabric-data-generation-api-v1-a5b452c0-common-23.2.4+55e55d29f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-dimensions-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---4.0.19+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-dimensions-v1-a5b452c0-common-4.0.19+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-dimensions-v1-a5b452c0-common-4.0.19+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-dimensions-v1-a5b452c0-common-4.0.19+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-entity-events-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---2.1.1+c9e47273f3
+¦   ¦   ¦                   ¦           fabric-entity-events-v1-a5b452c0-common-2.1.1+c9e47273f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-entity-events-v1-a5b452c0-common-2.1.1+c9e47273f3.jar
+¦   ¦   ¦                   ¦           fabric-entity-events-v1-a5b452c0-common-2.1.1+c9e47273f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-events-interaction-v0-a5b452c0-client
+¦   ¦   ¦                   ¦   +---4.0.23+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-events-interaction-v0-a5b452c0-client-4.0.23+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-events-interaction-v0-a5b452c0-client-4.0.23+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-events-interaction-v0-a5b452c0-client-4.0.23+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-events-interaction-v0-a5b452c0-common
+¦   ¦   ¦                   ¦   +---4.0.23+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-events-interaction-v0-a5b452c0-common-4.0.23+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-events-interaction-v0-a5b452c0-common-4.0.23+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-events-interaction-v0-a5b452c0-common-4.0.23+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-game-rule-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---1.0.73+c64c9c5bf3
+¦   ¦   ¦                   ¦           fabric-game-rule-api-v1-a5b452c0-client-1.0.73+c64c9c5bf3-sources.jar
+¦   ¦   ¦                   ¦           fabric-game-rule-api-v1-a5b452c0-client-1.0.73+c64c9c5bf3.jar
+¦   ¦   ¦                   ¦           fabric-game-rule-api-v1-a5b452c0-client-1.0.73+c64c9c5bf3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-game-rule-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---1.0.73+c64c9c5bf3
+¦   ¦   ¦                   ¦           fabric-game-rule-api-v1-a5b452c0-common-1.0.73+c64c9c5bf3-sources.jar
+¦   ¦   ¦                   ¦           fabric-game-rule-api-v1-a5b452c0-common-1.0.73+c64c9c5bf3.jar
+¦   ¦   ¦                   ¦           fabric-game-rule-api-v1-a5b452c0-common-1.0.73+c64c9c5bf3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-gametest-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---3.1.9+39ce47f5f3
+¦   ¦   ¦                   ¦           fabric-gametest-api-v1-a5b452c0-common-3.1.9+39ce47f5f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-gametest-api-v1-a5b452c0-common-3.1.9+39ce47f5f3.jar
+¦   ¦   ¦                   ¦           fabric-gametest-api-v1-a5b452c0-common-3.1.9+39ce47f5f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-item-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---11.4.3+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-item-api-v1-a5b452c0-client-11.4.3+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-item-api-v1-a5b452c0-client-11.4.3+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-item-api-v1-a5b452c0-client-11.4.3+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-item-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---11.4.3+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-item-api-v1-a5b452c0-common-11.4.3+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-item-api-v1-a5b452c0-common-11.4.3+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-item-api-v1-a5b452c0-common-11.4.3+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-item-group-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---4.2.13+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-item-group-api-v1-a5b452c0-client-4.2.13+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-item-group-api-v1-a5b452c0-client-4.2.13+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-item-group-api-v1-a5b452c0-client-4.2.13+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-item-group-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---4.2.13+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-item-group-api-v1-a5b452c0-common-4.2.13+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-item-group-api-v1-a5b452c0-common-4.2.13+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-item-group-api-v1-a5b452c0-common-4.2.13+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-key-binding-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---1.0.65+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-key-binding-api-v1-a5b452c0-client-1.0.65+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-key-binding-api-v1-a5b452c0-client-1.0.65+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-key-binding-api-v1-a5b452c0-client-1.0.65+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-lifecycle-events-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---2.6.3+db4dfd85f3
+¦   ¦   ¦                   ¦           fabric-lifecycle-events-v1-a5b452c0-client-2.6.3+db4dfd85f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-lifecycle-events-v1-a5b452c0-client-2.6.3+db4dfd85f3.jar
+¦   ¦   ¦                   ¦           fabric-lifecycle-events-v1-a5b452c0-client-2.6.3+db4dfd85f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-lifecycle-events-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---2.6.3+db4dfd85f3
+¦   ¦   ¦                   ¦           fabric-lifecycle-events-v1-a5b452c0-common-2.6.3+db4dfd85f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-lifecycle-events-v1-a5b452c0-common-2.6.3+db4dfd85f3.jar
+¦   ¦   ¦                   ¦           fabric-lifecycle-events-v1-a5b452c0-common-2.6.3+db4dfd85f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-loot-api-v2-a5b452c0-common
+¦   ¦   ¦                   ¦   +---3.0.55+3f89f5a5f3
+¦   ¦   ¦                   ¦           fabric-loot-api-v2-a5b452c0-common-3.0.55+3f89f5a5f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-loot-api-v2-a5b452c0-common-3.0.55+3f89f5a5f3.jar
+¦   ¦   ¦                   ¦           fabric-loot-api-v2-a5b452c0-common-3.0.55+3f89f5a5f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-loot-api-v3-a5b452c0-common
+¦   ¦   ¦                   ¦   +---2.0.2+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-loot-api-v3-a5b452c0-common-2.0.2+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-loot-api-v3-a5b452c0-common-2.0.2+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-loot-api-v3-a5b452c0-common-2.0.2+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-message-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---6.1.1+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-message-api-v1-a5b452c0-client-6.1.1+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-message-api-v1-a5b452c0-client-6.1.1+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-message-api-v1-a5b452c0-client-6.1.1+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-message-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---6.1.1+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-message-api-v1-a5b452c0-common-6.1.1+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-message-api-v1-a5b452c0-common-6.1.1+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-message-api-v1-a5b452c0-common-6.1.1+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-model-loading-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---5.2.5+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-model-loading-api-v1-a5b452c0-client-5.2.5+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-model-loading-api-v1-a5b452c0-client-5.2.5+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-model-loading-api-v1-a5b452c0-client-5.2.5+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-networking-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---5.0.1+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-networking-api-v1-a5b452c0-client-5.0.1+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-networking-api-v1-a5b452c0-client-5.0.1+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-networking-api-v1-a5b452c0-client-5.0.1+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-networking-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---5.0.1+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-networking-api-v1-a5b452c0-common-5.0.1+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-networking-api-v1-a5b452c0-common-5.0.1+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-networking-api-v1-a5b452c0-common-5.0.1+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-object-builder-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---21.1.7+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-object-builder-api-v1-a5b452c0-client-21.1.7+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-object-builder-api-v1-a5b452c0-client-21.1.7+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-object-builder-api-v1-a5b452c0-client-21.1.7+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-object-builder-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---21.1.7+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-object-builder-api-v1-a5b452c0-common-21.1.7+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-object-builder-api-v1-a5b452c0-common-21.1.7+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-object-builder-api-v1-a5b452c0-common-21.1.7+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-particles-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---4.1.7+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-particles-v1-a5b452c0-client-4.1.7+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-particles-v1-a5b452c0-client-4.1.7+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-particles-v1-a5b452c0-client-4.1.7+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-particles-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---4.1.7+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-particles-v1-a5b452c0-common-4.1.7+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-particles-v1-a5b452c0-common-4.1.7+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-particles-v1-a5b452c0-common-4.1.7+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-recipe-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---8.1.14+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-recipe-api-v1-a5b452c0-client-8.1.14+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-recipe-api-v1-a5b452c0-client-8.1.14+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-recipe-api-v1-a5b452c0-client-8.1.14+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-recipe-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---8.1.14+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-recipe-api-v1-a5b452c0-common-8.1.14+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-recipe-api-v1-a5b452c0-common-8.1.14+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-recipe-api-v1-a5b452c0-common-8.1.14+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-registry-sync-v0-a5b452c0-client
+¦   ¦   ¦                   ¦   +---6.1.27+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-registry-sync-v0-a5b452c0-client-6.1.27+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-registry-sync-v0-a5b452c0-client-6.1.27+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-registry-sync-v0-a5b452c0-client-6.1.27+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-registry-sync-v0-a5b452c0-common
+¦   ¦   ¦                   ¦   +---6.1.27+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-registry-sync-v0-a5b452c0-common-6.1.27+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-registry-sync-v0-a5b452c0-common-6.1.27+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-registry-sync-v0-a5b452c0-common-6.1.27+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-renderer-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---7.0.2+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-renderer-api-v1-a5b452c0-client-7.0.2+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-renderer-api-v1-a5b452c0-client-7.0.2+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-renderer-api-v1-a5b452c0-client-7.0.2+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-renderer-indigo-a5b452c0-client
+¦   ¦   ¦                   ¦   +---4.0.2+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-renderer-indigo-a5b452c0-client-4.0.2+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-renderer-indigo-a5b452c0-client-4.0.2+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-renderer-indigo-a5b452c0-client-4.0.2+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-rendering-fluids-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---3.1.30+fa6cb72bf3
+¦   ¦   ¦                   ¦           fabric-rendering-fluids-v1-a5b452c0-client-3.1.30+fa6cb72bf3-sources.jar
+¦   ¦   ¦                   ¦           fabric-rendering-fluids-v1-a5b452c0-client-3.1.30+fa6cb72bf3.jar
+¦   ¦   ¦                   ¦           fabric-rendering-fluids-v1-a5b452c0-client-3.1.30+fa6cb72bf3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-rendering-fluids-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---3.1.30+fa6cb72bf3
+¦   ¦   ¦                   ¦           fabric-rendering-fluids-v1-a5b452c0-common-3.1.30+fa6cb72bf3-sources.jar
+¦   ¦   ¦                   ¦           fabric-rendering-fluids-v1-a5b452c0-common-3.1.30+fa6cb72bf3.jar
+¦   ¦   ¦                   ¦           fabric-rendering-fluids-v1-a5b452c0-common-3.1.30+fa6cb72bf3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-rendering-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---12.4.0+e8d43c76f3
+¦   ¦   ¦                   ¦           fabric-rendering-v1-a5b452c0-client-12.4.0+e8d43c76f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-rendering-v1-a5b452c0-client-12.4.0+e8d43c76f3.jar
+¦   ¦   ¦                   ¦           fabric-rendering-v1-a5b452c0-client-12.4.0+e8d43c76f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-resource-conditions-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---5.0.24+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-resource-conditions-api-v1-a5b452c0-common-5.0.24+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-resource-conditions-api-v1-a5b452c0-common-5.0.24+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-resource-conditions-api-v1-a5b452c0-common-5.0.24+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-resource-loader-v0-a5b452c0-client
+¦   ¦   ¦                   ¦   +---3.1.11+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-resource-loader-v0-a5b452c0-client-3.1.11+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-resource-loader-v0-a5b452c0-client-3.1.11+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-resource-loader-v0-a5b452c0-client-3.1.11+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-resource-loader-v0-a5b452c0-common
+¦   ¦   ¦                   ¦   +---3.1.11+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-resource-loader-v0-a5b452c0-common-3.1.11+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-resource-loader-v0-a5b452c0-common-3.1.11+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-resource-loader-v0-a5b452c0-common-3.1.11+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-screen-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---2.1.0+277ecf7df3
+¦   ¦   ¦                   ¦           fabric-screen-api-v1-a5b452c0-client-2.1.0+277ecf7df3-sources.jar
+¦   ¦   ¦                   ¦           fabric-screen-api-v1-a5b452c0-client-2.1.0+277ecf7df3.jar
+¦   ¦   ¦                   ¦           fabric-screen-api-v1-a5b452c0-client-2.1.0+277ecf7df3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-screen-handler-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---1.3.136+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-screen-handler-api-v1-a5b452c0-client-1.3.136+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-screen-handler-api-v1-a5b452c0-client-1.3.136+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-screen-handler-api-v1-a5b452c0-client-1.3.136+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-screen-handler-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---1.3.136+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-screen-handler-api-v1-a5b452c0-common-1.3.136+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-screen-handler-api-v1-a5b452c0-common-1.3.136+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-screen-handler-api-v1-a5b452c0-common-1.3.136+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-sound-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---1.0.42+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-sound-api-v1-a5b452c0-client-1.0.42+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-sound-api-v1-a5b452c0-client-1.0.42+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-sound-api-v1-a5b452c0-client-1.0.42+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-tag-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---1.2.1+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-tag-api-v1-a5b452c0-client-1.2.1+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-tag-api-v1-a5b452c0-client-1.2.1+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-tag-api-v1-a5b452c0-client-1.2.1+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-tag-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---1.2.1+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-tag-api-v1-a5b452c0-common-1.2.1+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-tag-api-v1-a5b452c0-common-1.2.1+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-tag-api-v1-a5b452c0-common-1.2.1+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-transfer-api-v1-a5b452c0-client
+¦   ¦   ¦                   ¦   +---6.0.5+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-transfer-api-v1-a5b452c0-client-6.0.5+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-transfer-api-v1-a5b452c0-client-6.0.5+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-transfer-api-v1-a5b452c0-client-6.0.5+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-transfer-api-v1-a5b452c0-common
+¦   ¦   ¦                   ¦   +---6.0.5+946bf4c3f3
+¦   ¦   ¦                   ¦           fabric-transfer-api-v1-a5b452c0-common-6.0.5+946bf4c3f3-sources.jar
+¦   ¦   ¦                   ¦           fabric-transfer-api-v1-a5b452c0-common-6.0.5+946bf4c3f3.jar
+¦   ¦   ¦                   ¦           fabric-transfer-api-v1-a5b452c0-common-6.0.5+946bf4c3f3.pom
+¦   ¦   ¦                   ¦           
+¦   ¦   ¦                   +---fabric-transitive-access-wideners-v1-a5b452c0-common
+¦   ¦   ¦                       +---6.4.1+ac3e15d1f3
+¦   ¦   ¦                               fabric-transitive-access-wideners-v1-a5b452c0-common-6.4.1+ac3e15d1f3-sources.jar
+¦   ¦   ¦                               fabric-transitive-access-wideners-v1-a5b452c0-common-6.4.1+ac3e15d1f3.jar
+¦   ¦   ¦                               fabric-transitive-access-wideners-v1-a5b452c0-common-6.4.1+ac3e15d1f3.pom
+¦   ¦   ¦                               
+¦   ¦   +---source_mappings
+¦   ¦           077c1ca8a67f63c999b4b3c5adee19230b53302c.tiny
+¦   ¦           
+¦   +---vcs-1
+¦           gc.properties
+¦           
++---.idea
+¦   ¦   misc.xml
+¦   ¦   modules.xml
+¦   ¦   uiDesigner.xml
+¦   ¦   workspace.xml
+¦   ¦   
+¦   +---modules
+¦   ¦       VelociType.client.iml
+¦   ¦       VelociType.iml
+¦   ¦       VelociType.main.iml
+¦   ¦       VelociType.test.iml
+¦   ¦       
+¦   +---runConfigurations
+¦           Minecraft_Client.xml
+¦           Minecraft_Server.xml
+¦           
++---build
+¦   +---classes
+¦   ¦   +---java
+¦   ¦       +---client
+¦   ¦       ¦   ¦   client-velocitype-refmap.json
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---dev
+¦   ¦       ¦       +---wisedodge
+¦   ¦       ¦           ¦   VelocitypeClient.class
+¦   ¦       ¦           ¦   
+¦   ¦       ¦           +---mixin
+¦   ¦       ¦               +---client
+¦   ¦       ¦                       VelocitypeClientMixin.class
+¦   ¦       ¦                       
+¦   ¦       +---main
+¦   ¦           ¦   velocitype-refmap.json
+¦   ¦           ¦   
+¦   ¦           +---dev
+¦   ¦               +---wisedodge
+¦   ¦                   ¦   VelociType.class
+¦   ¦                   ¦   
+¦   ¦                   +---mixin
+¦   ¦                           VelocitypeMixin.class
+¦   ¦                           
+¦   +---devlibs
+¦   ¦       modid-1.0.0-dev.jar
+¦   ¦       modid-1.0.0-sources.jar
+¦   ¦       velocitype-0.1.0-dev.jar
+¦   ¦       velocitype-0.1.0-sources.jar
+¦   ¦       
+¦   +---generated
+¦   ¦   +---sources
+¦   ¦       +---annotationProcessor
+¦   ¦       ¦   +---java
+¦   ¦       ¦       +---client
+¦   ¦       ¦       +---main
+¦   ¦       +---headers
+¦   ¦           +---java
+¦   ¦               +---client
+¦   ¦               +---main
+¦   +---libs
+¦   ¦       modid-1.0.0-sources.jar
+¦   ¦       modid-1.0.0.jar
+¦   ¦       velocitype-0.1.0-sources.jar
+¦   ¦       velocitype-0.1.0.jar
+¦   ¦       
+¦   +---loom-cache
+¦   ¦   ¦   mixin-map-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.client.tiny
+¦   ¦   ¦   mixin-map-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.main.tiny
+¦   ¦   ¦   
+¦   ¦   +---remapped_working
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-api-a5b452c0-0.129.0+1.21.8-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-api-a5b452c0-0.129.0+1.21.8.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-api-base-a5b452c0-0.4.64+9ec45cd8f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-api-base-a5b452c0-0.4.64+9ec45cd8f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-api-lookup-api-v1-a5b452c0-1.6.100+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-api-lookup-api-v1-a5b452c0-1.6.100+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-biome-api-v1-a5b452c0-16.0.11+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-biome-api-v1-a5b452c0-16.0.11+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-api-v1-a5b452c0-1.1.3+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-api-v1-a5b452c0-1.1.3+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-view-api-v2-a5b452c0-1.0.31+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-view-api-v2-a5b452c0-1.0.31+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-view-api-v2-a5b452c0-1.0.31+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-view-api-v2-a5b452c0-1.0.31+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-view-api-v2-a5b452c0-1.0.31+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-block-view-api-v2-a5b452c0-1.0.31+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-client-gametest-api-v1-a5b452c0-4.2.5+8a98c3fcf3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-client-gametest-api-v1-a5b452c0-4.2.5+8a98c3fcf3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-command-api-v2-a5b452c0-2.2.53+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-command-api-v2-a5b452c0-2.2.53+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-command-api-v2-a5b452c0-2.2.53+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-command-api-v2-a5b452c0-2.2.53+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-command-api-v2-a5b452c0-2.2.53+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-command-api-v2-a5b452c0-2.2.53+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-content-registries-v0-a5b452c0-10.0.18+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-content-registries-v0-a5b452c0-10.0.18+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-convention-tags-v1-a5b452c0-2.1.40+7f945d5bf3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-convention-tags-v1-a5b452c0-2.1.40+7f945d5bf3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-convention-tags-v2-a5b452c0-2.15.5+eb5df52ff3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-convention-tags-v2-a5b452c0-2.15.5+eb5df52ff3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-crash-report-info-v1-a5b452c0-0.3.15+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-crash-report-info-v1-a5b452c0-0.3.15+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-a5b452c0-1.8.10+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-a5b452c0-1.8.10+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-a5b452c0-1.8.10+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-a5b452c0-1.8.10+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-a5b452c0-1.8.10+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-attachment-api-v1-a5b452c0-1.8.10+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-generation-api-v1-a5b452c0-23.2.4+55e55d29f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-generation-api-v1-a5b452c0-23.2.4+55e55d29f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-generation-api-v1-a5b452c0-23.2.4+55e55d29f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-generation-api-v1-a5b452c0-23.2.4+55e55d29f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-generation-api-v1-a5b452c0-23.2.4+55e55d29f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-data-generation-api-v1-a5b452c0-23.2.4+55e55d29f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-dimensions-v1-a5b452c0-4.0.19+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-dimensions-v1-a5b452c0-4.0.19+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-entity-events-v1-a5b452c0-2.1.1+c9e47273f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-entity-events-v1-a5b452c0-2.1.1+c9e47273f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-events-interaction-v0-a5b452c0-4.0.23+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-events-interaction-v0-a5b452c0-4.0.23+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-events-interaction-v0-a5b452c0-4.0.23+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-events-interaction-v0-a5b452c0-4.0.23+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-events-interaction-v0-a5b452c0-4.0.23+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-events-interaction-v0-a5b452c0-4.0.23+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-game-rule-api-v1-a5b452c0-1.0.73+c64c9c5bf3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-game-rule-api-v1-a5b452c0-1.0.73+c64c9c5bf3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-game-rule-api-v1-a5b452c0-1.0.73+c64c9c5bf3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-game-rule-api-v1-a5b452c0-1.0.73+c64c9c5bf3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-game-rule-api-v1-a5b452c0-1.0.73+c64c9c5bf3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-game-rule-api-v1-a5b452c0-1.0.73+c64c9c5bf3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-gametest-api-v1-a5b452c0-3.1.9+39ce47f5f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-gametest-api-v1-a5b452c0-3.1.9+39ce47f5f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-api-v1-a5b452c0-11.4.3+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-api-v1-a5b452c0-11.4.3+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-api-v1-a5b452c0-11.4.3+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-api-v1-a5b452c0-11.4.3+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-api-v1-a5b452c0-11.4.3+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-api-v1-a5b452c0-11.4.3+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-group-api-v1-a5b452c0-4.2.13+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-group-api-v1-a5b452c0-4.2.13+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-group-api-v1-a5b452c0-4.2.13+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-group-api-v1-a5b452c0-4.2.13+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-group-api-v1-a5b452c0-4.2.13+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-item-group-api-v1-a5b452c0-4.2.13+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-key-binding-api-v1-a5b452c0-1.0.65+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-key-binding-api-v1-a5b452c0-1.0.65+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-a5b452c0-2.6.3+db4dfd85f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-a5b452c0-2.6.3+db4dfd85f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-a5b452c0-2.6.3+db4dfd85f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-a5b452c0-2.6.3+db4dfd85f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-a5b452c0-2.6.3+db4dfd85f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-lifecycle-events-v1-a5b452c0-2.6.3+db4dfd85f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-loot-api-v2-a5b452c0-3.0.55+3f89f5a5f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-loot-api-v2-a5b452c0-3.0.55+3f89f5a5f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-loot-api-v3-a5b452c0-2.0.2+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-loot-api-v3-a5b452c0-2.0.2+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-message-api-v1-a5b452c0-6.1.1+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-message-api-v1-a5b452c0-6.1.1+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-message-api-v1-a5b452c0-6.1.1+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-message-api-v1-a5b452c0-6.1.1+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-message-api-v1-a5b452c0-6.1.1+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-message-api-v1-a5b452c0-6.1.1+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-model-loading-api-v1-a5b452c0-5.2.5+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-model-loading-api-v1-a5b452c0-5.2.5+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-networking-api-v1-a5b452c0-5.0.1+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-networking-api-v1-a5b452c0-5.0.1+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-networking-api-v1-a5b452c0-5.0.1+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-networking-api-v1-a5b452c0-5.0.1+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-networking-api-v1-a5b452c0-5.0.1+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-networking-api-v1-a5b452c0-5.0.1+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-object-builder-api-v1-a5b452c0-21.1.7+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-object-builder-api-v1-a5b452c0-21.1.7+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-object-builder-api-v1-a5b452c0-21.1.7+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-object-builder-api-v1-a5b452c0-21.1.7+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-object-builder-api-v1-a5b452c0-21.1.7+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-object-builder-api-v1-a5b452c0-21.1.7+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-particles-v1-a5b452c0-4.1.7+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-particles-v1-a5b452c0-4.1.7+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-particles-v1-a5b452c0-4.1.7+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-particles-v1-a5b452c0-4.1.7+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-particles-v1-a5b452c0-4.1.7+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-particles-v1-a5b452c0-4.1.7+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-recipe-api-v1-a5b452c0-8.1.14+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-recipe-api-v1-a5b452c0-8.1.14+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-recipe-api-v1-a5b452c0-8.1.14+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-recipe-api-v1-a5b452c0-8.1.14+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-recipe-api-v1-a5b452c0-8.1.14+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-recipe-api-v1-a5b452c0-8.1.14+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-registry-sync-v0-a5b452c0-6.1.27+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-registry-sync-v0-a5b452c0-6.1.27+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-registry-sync-v0-a5b452c0-6.1.27+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-registry-sync-v0-a5b452c0-6.1.27+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-registry-sync-v0-a5b452c0-6.1.27+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-registry-sync-v0-a5b452c0-6.1.27+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-renderer-api-v1-a5b452c0-7.0.2+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-renderer-api-v1-a5b452c0-7.0.2+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-renderer-indigo-a5b452c0-4.0.2+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-renderer-indigo-a5b452c0-4.0.2+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-a5b452c0-3.1.30+fa6cb72bf3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-a5b452c0-3.1.30+fa6cb72bf3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-a5b452c0-3.1.30+fa6cb72bf3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-a5b452c0-3.1.30+fa6cb72bf3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-a5b452c0-3.1.30+fa6cb72bf3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-fluids-v1-a5b452c0-3.1.30+fa6cb72bf3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-v1-a5b452c0-12.4.0+e8d43c76f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-rendering-v1-a5b452c0-12.4.0+e8d43c76f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-conditions-api-v1-a5b452c0-5.0.24+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-conditions-api-v1-a5b452c0-5.0.24+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-loader-v0-a5b452c0-3.1.11+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-loader-v0-a5b452c0-3.1.11+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-loader-v0-a5b452c0-3.1.11+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-loader-v0-a5b452c0-3.1.11+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-loader-v0-a5b452c0-3.1.11+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-resource-loader-v0-a5b452c0-3.1.11+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-api-v1-a5b452c0-2.1.0+277ecf7df3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-api-v1-a5b452c0-2.1.0+277ecf7df3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-a5b452c0-1.3.136+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-a5b452c0-1.3.136+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-a5b452c0-1.3.136+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-a5b452c0-1.3.136+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-a5b452c0-1.3.136+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-screen-handler-api-v1-a5b452c0-1.3.136+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-sound-api-v1-a5b452c0-1.0.42+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-sound-api-v1-a5b452c0-1.0.42+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-tag-api-v1-a5b452c0-1.2.1+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-tag-api-v1-a5b452c0-1.2.1+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-tag-api-v1-a5b452c0-1.2.1+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-tag-api-v1-a5b452c0-1.2.1+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-tag-api-v1-a5b452c0-1.2.1+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-tag-api-v1-a5b452c0-1.2.1+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transfer-api-v1-a5b452c0-6.0.5+946bf4c3f3-client-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transfer-api-v1-a5b452c0-6.0.5+946bf4c3f3-client.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transfer-api-v1-a5b452c0-6.0.5+946bf4c3f3-common-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transfer-api-v1-a5b452c0-6.0.5+946bf4c3f3-common.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transfer-api-v1-a5b452c0-6.0.5+946bf4c3f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transfer-api-v1-a5b452c0-6.0.5+946bf4c3f3.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transitive-access-wideners-v1-a5b452c0-6.4.1+ac3e15d1f3-sources.jar
+¦   ¦           remapped.net.fabricmc.fabric-api-fabric-transitive-access-wideners-v1-a5b452c0-6.4.1+ac3e15d1f3.jar
+¦   ¦           
+¦   +---processIncludeJars
+¦   +---reports
+¦   ¦   +---problems
+¦   ¦           problems-report.html
+¦   ¦           
+¦   +---resources
+¦   ¦   +---client
+¦   ¦   ¦       velocitype.client.mixins.json
+¦   ¦   ¦       
+¦   ¦   +---main
+¦   ¦       ¦   fabric.mod.json
+¦   ¦       ¦   velocitype.mixins.json
+¦   ¦       ¦   
+¦   ¦       +---assets
+¦   ¦           +---velocitype
+¦   ¦                   icon.png
+¦   ¦                   
+¦   +---tmp
+¦       +---compileClientJava
+¦       ¦       previous-compilation-data.bin
+¦       ¦       
+¦       +---compileJava
+¦       ¦       previous-compilation-data.bin
+¦       ¦       
+¦       +---jar
+¦       ¦       MANIFEST.MF
+¦       ¦       
+¦       +---remapJar
+¦       ¦       MANIFEST.MF
+¦       ¦       
+¦       +---remapSourcesJar
+¦       ¦       MANIFEST.MF
+¦       ¦       
+¦       +---sourcesJar
+¦               MANIFEST.MF
+¦               
++---docs
+¦       directoryinROOT.txt
+¦       TypingPLANS.md
+¦       
++---gradle
+¦   +---wrapper
+¦           gradle-wrapper.jar
+¦           gradle-wrapper.properties
+¦           
++---run
+¦   +---resources
++---src
+    +---client
+    ¦   +---java
+    ¦   ¦   +---dev
+    ¦   ¦       +---wisedodge
+    ¦   ¦           ¦   VelocitypeClient.java
+    ¦   ¦           ¦   
+    ¦   ¦           +---mixin
+    ¦   ¦               +---client
+    ¦   ¦                       VelocitypeClientMixin.java
+    ¦   ¦                       
+    ¦   +---resources
+    ¦           velocitype.client.mixins.json
+    ¦           
+    +---main
+        +---java
+        ¦   +---dev
+        ¦       +---wisedodge
+        ¦           ¦   VelociType.java
+        ¦           ¦   
+        ¦           +---mixin
+        ¦                   VelocitypeMixin.java
+        ¦                   
+        +---resources
+            ¦   fabric.mod.json
+            ¦   velocitype.mixins.json
+            ¦   
+            +---assets
+                +---velocitype
+                        icon.png
+                        

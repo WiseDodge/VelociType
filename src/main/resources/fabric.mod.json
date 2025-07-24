@@ -1,31 +1,31 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "velocitype",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "VelociType",
+	"description": "A client-side mod that displays your real-time typing speed (WPM) and other stats directly in the chat screen.",
 	"authors": [
-		"Me!"
+		"WiseDodge"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/WiseDodge/VelociType",
+		"sources": "https://github.com/WiseDodge/VelociType"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/modid/icon.png",
-	"environment": "*",
+	"license": "All-Rights-Reserved",
+	"icon": "assets/velocitype/icon.png",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"dev.wisedodge.VelociType"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"dev.wisedodge.VelocitypeClient"
 		]
 	},
 	"mixins": [
-		"modid.mixins.json",
+		"velocitype.mixins.json",
 		{
-			"config": "modid.client.mixins.json",
+			"config": "velocitype.client.mixins.json",
 			"environment": "client"
 		}
 	],
@@ -34,8 +34,5 @@
 		"minecraft": "~1.21.8",
 		"java": ">=21",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
